@@ -10,9 +10,9 @@ A ChatGPT-style AI chatbot that lets you upload a PDF and ask questions about it
 
 ---
 
-# Screenshots
+## Demo
 
-screenshot/demo 1.png/demo 2.png/demo 3.png/demo 4.png
+![Demo](screenshot/demo 4.png)
 
 ---
 
