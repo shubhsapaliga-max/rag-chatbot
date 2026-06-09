@@ -12,7 +12,7 @@ A ChatGPT-style AI chatbot that lets you upload a PDF and ask questions about it
 
 ## 📸 UI Preview
 
-![RAG Chatbot UI](screenshot/demo 4.png)
+![RAG Chatbot UI](rag-chatbot/screenshot/demo 4.png)
 
 ---
 
